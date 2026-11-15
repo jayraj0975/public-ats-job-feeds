@@ -91,7 +91,7 @@ Official endpoint documentation and policy references:
 
 ## Coverage limits
 
-The seed covers 906 boards that had at least one public job on the verification
+The seed covers 23,086 boards that had at least one public job on the verification
 date. It can miss private, unlisted, newly created, renamed, undiscovered, or
 recently reactivated boards, and any included board can later become empty or
 move. It is not a customer census and freshness is not guaranteed after the
